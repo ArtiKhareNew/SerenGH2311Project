@@ -12,17 +12,18 @@
     <value name="AzRepoMultiplyPackage">4.0</value>
     <value name="upperfspackage">5.0</value>
     <value name="substractpackage">5.0</value>
+    <value name="LowerFSPackage">2.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">5</value>
+  <value name="build">6</value>
   <null name="description"/>
   <value name="created_date">23-11-2026 04:13:55 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-23T04:15:47.068338639Z</value>
+  <value name="lastUpdated">2026-11-23T04:16:24.02319008Z</value>
   <value name="wmProjectId">fld255a91922f1acec6ac2a0</value>
   <value name="creator">Arti Khare</value>
 </Values>
